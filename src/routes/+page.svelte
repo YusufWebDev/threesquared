@@ -1,5 +1,5 @@
 <script>
-	let comingSoon = "/src/images/coming.webp";
+	let comingSoon = "./src/images/coming.webp";
 </script>
 
 <div class="container">
