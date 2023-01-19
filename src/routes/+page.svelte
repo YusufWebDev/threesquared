@@ -1,10 +1,6 @@
-<script>
-	let comingSoon = "./src/images/coming.webp";
-</script>
-
 <div class="container">
 	<h1>Welcome to Three Squared</h1>
-	<img src={comingSoon} alt="" srcset="" />
+	<img src="./src/images/coming.webp" alt="" srcset="" />
 </div>
 
 <style>
